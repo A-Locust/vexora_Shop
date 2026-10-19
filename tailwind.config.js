@@ -1,0 +1,1 @@
+module.exports={content:['./*.html'],theme:{extend:{fontFamily:{vazir:['Vazirmatn','Tahoma','sans-serif']},keyframes:{loader:{'0%,70%':{opacity:'1',visibility:'visible'},'100%':{opacity:'0',visibility:'hidden'}}},animation:{loader:'loader 0.5s ease-out forwards'}}},plugins:[]}

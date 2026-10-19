@@ -1,0 +1,1 @@
+{"name":"vexora","private":true,"scripts":{"build":"tailwindcss -i ./src.css -o ./css/style.css --minify","watch":"tailwindcss -i ./src.css -o ./css/style.css --watch"},"devDependencies":{"tailwindcss":"^3.4.17"}}
